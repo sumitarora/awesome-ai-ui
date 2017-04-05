@@ -1,0 +1,25 @@
+body {
+  background-color: #fff;
+  font-family: "Calibre",sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: #422d3f;
+  padding: 20px;
+}
+
+.link {
+  color: #e5373a;
+  text-transform: uppercase;
+  font-size: 2.0em;
+  padding: 15px;
+  letter-spacing: 0.05em;
+}
+
+.btn-home {
+  border-color: #422d3f;
+  color: #422d3f;
+  font-weight: bold;
+  font-size: 1.5em;
+}
